@@ -1,5 +1,4 @@
 # pvsd
-Predicción de valores de un stock determinado usando Deep Learning
 # Prediccion de valores de un stock determinado
 
 ![alt text](https://github.com/Jaerab/pvsd/blob/main/StockPrediction.png?raw=true)
